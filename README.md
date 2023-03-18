@@ -1,1 +1,2 @@
 # NLP-projects
+<p>"Welcome to my NLP mini-projects repository! Here, I'll share a collection of projects that explore various natural language processing (NLP) techniques and tools. From sentiment analysis to text classification, each project is designed to help you gain a better understanding of NLP and its applications. Whether you're new to NLP or an experienced practitioner, I hope these projects inspire you to dive deeper into the fascinating world of language processing."<p>
